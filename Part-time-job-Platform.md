@@ -6,8 +6,7 @@
    
      The core of our platform is intelligent matching system. The biggest challenge is how to accurately meet massive job-seeking demand. And we have a great amount of job seeker and job position data. So we use our self-developed recommendation model to achieve precise match. The foundation of our system is reinforcement learning. The reinforcement learning matching system regards job-seeker matching as a sequential decision-making process. The system works as an agent to learn the optimal policy in the complex environment. Each time the system recommends job opportunities to users. Users will give feedback and the intelligent system will adjust and optimize based on the users feedback. Each user has a buffer to store relevant information.
   
-  We transform job preferences, user behavior, and feedback into computable data.
-Therefore we are able to evaluate the quality of decision through computation.   
+  We transform job preferences, user behavior, and feedback into computable data.Therefore we are able to evaluate the quality of decision through computation.   
 Immediate rewards:  
 View details: r = +0.1 (user shows interest in recommendation)  
 Save job: r = +0.3 (demonstrates stronger interest)  
