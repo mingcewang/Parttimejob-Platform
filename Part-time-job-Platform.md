@@ -61,5 +61,5 @@ Vdelayed = (0.2×1.0) + (0.15×2.0) + (0.1×3.0) - (0.05×1.0) = 0.2 + 0.3 + 0.3
 V = 0.76 × (0.27 + 0.75 × 0.8) = 0.76 × (0.27 + 0.6) = 0.76 × 0.87 = 0.66  
 The final value of 0.66 is the expected value of this position to this user. Our match system will prioritize the position with higher values.
 
-This is our core algorithm model. We use complex calculations to determine the value of each position for job seekers based on the above actions. By ranking them , we can recommend job positions to job seekers in order. This process is scientific and efficient.
+This is our core algorithm model. We use complex calculations to determine the value of each position for job seekers based on the above actions. By ranking them , we can recommend job positions to job seekers in order.We transform the abstract decision-making process into concrete.  This process is scientific and efficient.
 
