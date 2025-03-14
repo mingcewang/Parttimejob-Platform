@@ -17,7 +17,8 @@ Delayed rewards:
 Receiving interview: r = +1.0 (signal of match quality)  
 Job offer: r = +2.0 (confirmation of high-quality match)  
 Completing job term: r = +3.0 (long-term successful match)  
-Early resignation: r = -1.0 (signal of matching problem)  
+Early resignation: r = -1.0 (signal of matching problem) 
+
 (1) Job Value Calculation Equation  
 The total expected value of job position can be calculated by this equation:  
 
@@ -48,6 +49,7 @@ PI = (Wskill × Sskill + Wlocation × Slocation + Wtime × Stime + Wsalary × Ss
 • Stime is the time availability match score (0-1)   
 • Ssalary is the salary match score (0-1)   
 • W values are the weights for each factor based on user preferences  
+
 Example:  
 For a specific job and user:  
 Skill match: 0.8, Weight: 0.4   Location match: 0.7, Weight: 0.3  
