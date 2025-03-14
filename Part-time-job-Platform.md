@@ -20,7 +20,9 @@ Completing job term: r = +3.0 (long-term successful match)
 Early resignation: r = -1.0 (signal of matching problem)  
 (1) Job Value Calculation Equation  
 The total expected value of job position can be calculated by this equation:  
+
 V = PI × (Vimmediate + Vdelayed × D)  
+
 • V is the total expected value of the job position.   
 • PI is the personalized interest factor (ranging from 0 to 1).   
 • Vimmediate is the sum of expected immediate rewards.   
