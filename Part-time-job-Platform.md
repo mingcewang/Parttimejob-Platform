@@ -90,6 +90,7 @@ We conducted a detailed analysis of popular part-time job platforms in the UK (s
 1: Advantages of Reinforcement Learning (RL):
 
 RL can iterate and optimize recommendations based on user feedback (e.g., swiping behavior, application rate, and satisfaction after hiring), making it an ideal choice for dynamic and preference-driven markets like part-time work.
+
 2: UK Employees Environment and Technological Readiness
 
 The smartphone penetration rate in the UK is very high (87%), and open banking APIs support seamless integration of user data (skills, location, availability) to train RL models.
