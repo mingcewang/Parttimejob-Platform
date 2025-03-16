@@ -67,3 +67,41 @@ The final value of 0.66 is the expected value of this position to this user. Our
 
 This is our core algorithm model. We use complex calculations to determine the value of each position for job seekers based on the above actions. By ranking them , we can recommend job positions to job seekers in order.We transform the abstract decision-making process into concrete.  This process is scientific and efficient.
 
+Analysis
+
+We confirm that this product may have a huge impact in the future through a variety of different path analysis, the main analysis process is as follows:
+
+Market Trend Analysis
+
+We looked at recent UK job market reports and government data, and we found that the demand for flexible work models and part-time jobs has increased significantly in recent years. With the transformation of economic structure and work patterns after the pandemic, more and more people tend to seek part-time or temporary jobs to meet the needs of life flexibility and income diversification. At the same time, employers are increasingly adopting hiring methods that reduce fixed labor costs, which provides a growing market base for part-time matching services.
+The demand for part-time job seekers in the UK has long been overlooked, and our product are designed to fill this market gap.
+
+1：The UK employment rate for people aged 16 to 64 years was estimated at 74.9% in October to December 2024. This is above estimates of a year ago, and up in the latest quarter.
+The UK unemployment rate for people aged 16 years and over was estimated at 4.4% in October to December 2024. This is above estimates of a year ago, and up in the latest quarter.
+The UK economic inactivity rate for people aged 16 to 64 years was estimated at 21.5% in October to December 2024. This is below estimates of a year ago, and down in the latest quarter.
+Labour market overview, UK - Office for National Statistics
+2：More than a quarter of working adults in Great Britain (28%) were hybrid working in the autumn of 2024. While the trend in working only from home has fallen since 2021, a hybrid-working model (part travelling to work, and part at home), has become the ‘new normal’ for around a quarter of workers.
+Who are the hybrid workers? - Office for National Statistics
+
+Competitor Analysis and Service Gaps
+
+We conducted a detailed analysis of popular part-time job platforms in the UK (such as Indeed and Reed) and found that most platforms still rely on traditional keyword matching and static filtering methods. They cannot respond dynamically to user behavior and personalized needs. In contrast, we plan to use a reinforcement learning (RL) recommendation system, allowing the app to continuously optimize matching strategies based on real-time user feedback and basic information, providing more precise job recommendations. This technical advantage will fill the gap in personalized services on existing platforms and significantly enhance our product's market competitiveness.
+
+1: Advantages of Reinforcement Learning (RL):
+
+RL can iterate and optimize recommendations based on user feedback (e.g., swiping behavior, application rate, and satisfaction after hiring), making it an ideal choice for dynamic and preference-driven markets like part-time work.
+2: UK Employees Environment and Technological Readiness
+
+The smartphone penetration rate in the UK is very high (87%), and open banking APIs support seamless integration of user data (skills, location, availability) to train RL models.
+
+Technical Feasibility and Advanced Validation
+
+In addition, according to relevant academic studies and industry cases, reinforcement learning has achieved remarkable results in recommendation systems in the fields of film and TV, retail and e-commerce, and its adaptive and continuous learning characteristics can greatly improve the accuracy of personalized matching and user satisfaction. These successful precedents provide a solid theoretical and practical basis for applying this technology to part-time job matching.
+
+Pricing Model Design
+
+Our pricing model is very simple, adopting a monthly subscription fee of £10. Users pay a fixed monthly fee to enjoy all the services offered by the product, including job recommendations, personalized career advice and full access to employer information. This pricing strategy ensures the stability of our revenue, while also lowering the user barrier to use, which can attract more users in the initial stage.
+
+Conclusion
+
+Through a analysis of market trends, service gaps, user needs and technical feasibility, we believe that developing a part-time job matching app based on reinforcement learning not only meet the growing demand for flexible employment, but also has obvious competitive advantages. We believe that this will be a very promising business opportunity.
