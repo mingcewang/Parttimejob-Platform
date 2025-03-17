@@ -1,9 +1,9 @@
-Mingce Wang  mw2790@bath.ac.uk
-Han Liu      hl2589@bath.ac.uk
-Leo Guo      yg995@bath.ac.uk
-Jordan okene jeoo20@bath.ac.uk 
-Bin Wang     bw985@bath.ac.uk
-Kairui Yang  ky478@bath.ac.uk
+Mingce Wang  mw2790@bath.ac.uk  
+Han Liu      hl2589@bath.ac.uk  
+Leo Guo      yg995@bath.ac.uk  
+Jordan okene jeoo20@bath.ac.uk   
+Bin Wang     bw985@bath.ac.uk  
+Kairui Yang  ky478@bath.ac.uk  
  
  Our product is a part-time job matching app. It serves both job seekers and employers. Our platform has an intelligent matching system based on reinforcement learning. It learns job seekers' preferences，behavior and feedback to provide personalized service. There is a big demand for part-time job opportunities in the UK. But there has been a lack of a reliable, safe platform for employers and part-time job seekers. The part-time job market has always been ignored. So our product is designed to fill the huge gap in the market. Both employers and job seekers can register at our platform. Users can subscribe to our app for just £10 per month. 
  
