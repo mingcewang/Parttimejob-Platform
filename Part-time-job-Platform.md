@@ -106,3 +106,53 @@ Our pricing model is very simple, adopting a monthly subscription fee of £10. U
 Conclusion
 
 Through a analysis of market trends, service gaps, user needs and technical feasibility, we believe that developing a part-time job matching app based on reinforcement learning not only meet the growing demand for flexible employment, but also has obvious competitive advantages. We believe that this will be a very promising business opportunity.
+
+2 Market  
+2.1 Market Assumptions and Key Pain Points  
+A key part of market validation is realizing that our business idea depends on guesses about what customers want, how big the market is, and how much they will pay. By clearly stating these guesses early, we can plan tests to reduce our risk (Ries, 2011).
+
+Who Is Our Customer?  
+Our part-time job matching app targets two main customer segments:  
+1.	Job Seekers: Typically, individuals with limited availability (e.g., university students or those supplementing a main income) who find general job sites oversaturated with full-time listings. They are motivated by the desire for a trustworthy, convenient solution that reduces the search time for legitimate part-time roles (Office for National Statistics, 2025).
+2.	Employers: Often local cafés, retailers, and small companies with high turnover in casual roles. These employers are seeking a cost-effective, user-friendly platform to quickly access verified candidates without incurring large recruitment fees (CIPD, 2025).
+
+What Problems Are We Solving (Pain Points)?  
+1.	Mainstream job sites do not filter effectively for part-time positions, leading to wasted time for both parties. Additionally, job seekers worry about scams or unverified postings, while employers fear unqualified applicants.  
+2.	Traditional recruitment is time-consuming and expensive, particularly for small and medium-sized enterprise (SME) looking to fill short shifts or seasonal roles (CIPD, 2025).  
+3.	Both groups report frustration with cluttered interfaces, limited personalization, and having to manually filter out irrelevant full-time jobs (Fitzpatrick, 2013).  
+
+How Many Customers? Market Value?  
+In the UK, more than 8 million people work part-time, making up about 33% of the workforce (Office for National Statistics, 2025). There are also around 5.5 million small and medium-sized businesses (SMEs), many of which depend on part-time workers to handle changing workloads (Federation of Small Businesses, 2024). This means the market is quite large, and even getting a small share of it could make the business profitable, especially with a subscription model like £10 per month per user.
+
+Is the Market Saturated?
+Most job websites cover all types of jobs, but none focus specifically on verified part-time positions with a smart matching system. Big platforms target a wide range of users, which leaves a gap for a specialized service that caters directly to part-time job seekers and employers.
+
+Market Risks and Opportunities  
+Risks:  
+1.	If the subscription fee is deemed too high or if users find insufficient job opportunities early on, they may abandon the platform.  
+2.	Compliance with privacy and data protection (GDPR) is critical, as sensitive personal data is collected.  
+3.	Downturns could reduce the availability of part-time jobs or the hiring capacity of SMEs.  
+Opportunities:  
+1.	Remote and on-demand roles are increasingly popular, boosting part-time labour demand (ONS, 2025).  
+2.	Reinforcement learning provides a unique selling point, allowing for continuous improvement in matching algorithms.  
+3.	Collaborating with universities or college career centres could channel a large pool of motivated part-time job seekers directly to our platform.  
+
+2.2 Secondary Research  
+We started by looking at official reports and reliable data to check our ideas about market size, types of users, and common problems. The Office for National Statistics (2025) shows that more people, especially students and parents, are looking for flexible jobs as they manage other responsibilities. A study by the Chartered Institute of Personnel and Development (2025) also found that small businesses struggle to hire part-time workers because of high costs, long hiring processes, and unqualified applicants. 
+
+To understand the market size, we looked at industry data from the Federation of Small Businesses (2024). Although the report does not focus only on part-time jobs, it shows that small businesses regularly need workers for shorter hours. Many of these businesses cannot afford the high costs of using hiring agencies. This supports our idea that a specialized platform could help fill this gap in the market.
+
+Looking at global trends, more people are choosing flexible work options to improve their work-life balance. Since the pandemic, part-time, project-based, and gig jobs have become more common (McKinsey, 2021). This growing demand shows that our platform could have the potential to expand beyond the UK in the future.
+
+2.3 Primary Research
+Building on our secondary research, we conducted interviews and online surveys to verify real-world sentiment and test our assumptions regarding willingness to subscribe (Fitzpatrick, 2013). A short online questionnaire was posted on Reddit, WhatsApp groups, and via student email, yielding over 80 responses in one week:
+
+Job Seekers’ Perspective
+1.	Over 65% of respondents cited frustration with irrelevant postings on mainstream sites. Roughly half expressed concern over unverified employers or potential scams.
+2.	Approximately 60% of respondents were open to paying £5–£10 per month if it substantially reduced time spent job hunting and guaranteed trustworthy postings.
+
+Employers’ Perspective
+1.	In follow-up interviews with seven SMEs (local shops and cafés), owners voiced concerns about high turnover and the cost of placing ads on large sites. They frequently complained of receiving too many low-quality applications, indicating a strong need for targeted recruiting channels.
+2.	Most owners welcomed a system that would verify both job seekers and businesses, further implying that trust could be a major selling point.
+These findings validate our hypothesis that personalization and safety are top priorities in the UK part-time job market, and they reinforce the value of an intelligent recommendation approach. They also confirm that a modest subscription fee would be acceptable to a significant portion of our user base if paired with genuine value-add features—primarily better matching, faster discovery of relevant roles, and reduced recruitment friction.
+
