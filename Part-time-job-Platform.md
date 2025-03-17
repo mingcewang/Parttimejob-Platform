@@ -219,4 +219,104 @@ o	Raising venture capital after achieving stable user growth and market traction
 o	Target funding of £500,000+ to expand nationwide, enhance technology, and scale operations.  
 With this structured approach, we ensure financial sustainability while positioning ourselves for long-term success in the UK student job-matching market.  
 
+1	What are your plans for sales and marketing?  
+How do we find our users?  
+University and campus partnership  
+Try have a conversation with a career centre in a university first, see if we are able to become an official part-time job placement partner.  
+Set up a regular meeting schedule for feedback, then this will allow us to understand their specific needs and base on their requirements to customise our product so that we could support their student effectively. 
+Social media Marketing  
+TikTok, Reels and YouTuber shorts allow us to spread the message out. However, posting a serious video about an app may not get us the right response. We need get creative to make the video interesting or funny so people would stop scrolling down and watch our content.  
+We also encourage our current users to upload their successful experiences by using our app. Let them exist users posting their content so people would look at to them and increase our brand reliability.  
+How do we reach employers?  
+Direct contact  
+Introduce our apps to local micro and small businesses such as coffee shops, grocery shops or gyms. Tell them the advantages for using our app to help them find flexible and reliable employers. To achieve this, we need to find local’s employers’ emails or phone numbers. The most important part is that we show them that how our app simplifies the hiring process and reduce costs so that they would give a try.  
+After we have the app and our potential employers’ contacts, I suggest we try to have an interview with them face to face. In this interview we will show detailed of what this application is capable of.   
+Online ads  
+Since we are a group of students, we wouldn’t have that much money to place an advertisement. So, we could try to create an official account on LinkedIn and Instagram to regularly post information about the app and successful examples.  
+Or else use our own connections such as our friends and family, tell them that this platform is running by students, and we need their support to put our app’s information on their social media accounts.  
+Local Partnerships  
+Reach out to local chambers of commerce if possible so that we could borrow their resources to spread our platform. Try get into a local event and present the platform live. There would be a great opportunity if we could actually present our stuff in an event.  
+2	What is your operational plan?  
+Platform Development and maintenance  
+•	The platform is reinforcement learning-based; our algorithms will keep on updating based on our training data.  
+•	We have not decided yet on how and what are we going to develop the front end, but we aim to create an easy to use and simple interface.  
+•	We would ensure that our data protection fulfil the GDPR compliance. For employers’ truthiness we are using the companies house API to verify their authenticity.  
+•	The system will be continuing update with new data trained in order to improve algorithm’s accuracy.  
+User Registration and Verification  
+Job Seekers:  
+•	Sign-up: Email and Phone number (text code verification)  
+•	Personal detail: Must be the same as our matching system required ( age, gender, skills, education etc) Also, a valid ID ( passport or driving license). 
+•	Preference Settings: Your preferred job types, location, available working times and expected salary.  
+Employers:  
+•	Company registration: Employers have to provide a valid company registration number; it will be verified with the Company House database.  
+•	Company Profile: Title, introduction, geographic location and contact information.  
+•	Job Posting: The employers can post jobs with preference on salary standards, required skills, working hours and locations.  
+•	In app contact: Employers can contact interested employees to discuss further information.   
+Job application and  Hiring process  
+•	Users receive a ranked list of job postings.  
+•	Users can apply or message employers directly through in-app chat.  
+•	Employers review applications and arrange for interviews.  
+•	The system records job completion rates and early resignations to refine future recommendations.  
+
+Revenue Model  
+•	Subscription for Job Seekers: £10 per month.  
+•	Employer Service Fees: Advanced job postings.  
+•	Commission Model: A small commission on successful job placements.  
+Customer Support  
+As a start-up program we have only 6 students, in my own opinion the early stage of customer support would be a detailed handbook of how to use our platform. There is no way that we could provide 24/7 support on the early stages. The possible solution for this is to test the platform to see if there are any bugs.
+Future Expansion   
+•	Expanding it to more cities  
+•	Refining our models if we have more recruitment.  
+•	Collaborations with larger companies and HR firms.  
+
+3	What are the main risks to the success of your business and how will you address or mitigate them?  
+I am using the SWOT to analysis the threats, here is the full SWOT analysis  
+SWOT Analysis:  
+Strength:  
+•	Reinforcement learning support application, filtering users’ preference to increase job relevance, it makes sure both employees and employers find their desired work or worker.  
+•	Difference from ordinary part-time job application. While others only provide long-term or full-time job. Our application full fill a wide range of user including people who are looking  
+ for flexible jobs, side gigs, short-term projects, needing remote and supplement income.
+•	Easy sign-up procedure via phone number and email registration.  
+•	Companies House database ensured employer verification, this will increase trust and legitimacy by reducing fraud and dishonest job posting.  
+•	Advanced Job Matching and Application process, the application matches jobs based on user’s skills, location, availability and salary expectations. The app itself also includes a in-app chat system, allowing direct communication between employees and employers.  
+•	Affordable subscription fee just 10£ a month.  
+•	Data-Driven performance evaluation, our apps use immediate and delayed rewards to measure job match quality.  
+Weakness:  
+•	Our matching system relies on user data too much, if user engagement is low, they might receive less accurate job recommendations. 
+•	Low brand recognition as a new platform. 
+•	Competitiveness with free job platforms is way too high. (such as indeed )  
+•	Subscription fee maybe persuade user to quit or even refused to use. They might subscribe to our service at the start when they are actively looking for jobs, after they did secure an employment, they might cancel the subscription. 
+•	Risk of not balancing supply and demand, if there are too many people looking for job but there are not enough jobs. Otherwise, if there are too many employers but aren’t enough workers. 
+•	Mismatch risk. If the system focusses on engagement trends (e.g., clicking vs. submitting job applications), recommendations might not always reflect actual user demands.  
+Opportunities:  
+•	Shifting employment is on trends now, part-time job and flexible working is getting more and more popular.  
+•	Expanding our job types to more industries rather than retail and hospitality. Such as digital jobs.  
+•	Establishing a partnership with local colleges and universities. 
+•	Maybe going international if the business has gone wild.  
+•	Corporate partnerships and volume recruitment solutions for seasonal or high-demand positions.  
+Those are the threats that we are facing:  
+Threats:  
+Strong competition from major job platform and freelance platform.  
+Mitigation: Try to locate those industries or institutions that do not cooperate with those major job platforms and develop a partnership with them.  
+Challenges in acquiring and retaining subscribers, especially under the paid subscription model.  
+Mitigation:   
+•	We will provide a free model for basic job searches, but for advanced features the user will need to pay for subscription.  
+•	For new sign-up users, we would offer 3 times of usage for advanced job search, it would allow them to locate at least 3 jobs that matched their preferences.  
+•	Subscription sales, when a user had 2 months of subscription, we offer 30% off for next subscription payment.  
+Risk of supply-demand imbalance (too many job seekers and too few employers).  
+Mitigation:  
+•	Open up a new sector for freelancers, allow freelancers to post their special skills on the app where employers would search for an instant result.  
+•	Change geolocation based on which area demands more jobs or provider.  
+Fraud, scams and security issues may affect trust. Also, user privacy.  
+Mitigation:  
+•	Provide a user and employer report system. This allow both sides to report an individual or a company that are suspicious.  
+•	Set up a salary limits to make sure situations like a cleaner’s salary is 100£ per hours. (this is impossible, definitely fraud)  
+•	Research on typical frauds examples and make them a headline. When user’s startup the platform, there will be one tip of how to identify frauds, each time on startup shows different tips.  
+If there is a recession or automation have reduced part-time job opportunities. After all we are living in a fast-paced development era.  
+Mitigation: Under such a condition, we should expand more job opportunities that only request human force. Jobs that cannot replace by automation.   
+Changes in labour force trends (more remote work and fewer traditional part-time workers).  
+Mitigation:  
+•	Adapt with times, if the trends require remote workers, we better support remote job or hybrid jobs.  
+•	Updates our algorithms to focus on skill-based hiring.  
+
 
