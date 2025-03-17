@@ -167,4 +167,56 @@ LinkedIn
 LinkedIn is a business and employment-focused online social media platform that was founded in America in 2003, that was later bought by Microsoft in 2016. It is mainly used for networking and offers the ability for employers to post role vacancies and job seekers to post their CV. The platform has more than 1 billion members in 200 countries and regions worldwide. LinkedIn uses AI in several ways both on job seekers and business side, as they use GenAI, machine learning and OpenAI models. There is an AI-powered writing assistant that can assist recruiters in writing job descriptions and help personalize follow ups to an application from a certain user based on their data and skills. There is a similar tool on the job seekers side that helps users build their profiles with personalized writing suggestions based on their writing style. They also use AI-assisted search to help recruiters search for candidates based on their instructions reducing time spent for recruiters. AI is used in a laxer way in content suggestions for users and message templates for certain messages. LinkedIn also use AI to extract information from posts in a user’s feed to train their AI models, an asset with the number of users they have. 
 In our eyes LinkedIn is more of an indirect competitor to us. They operate in both the part-time and full-time job market. We view LinkedIn as more of a networking site for professionals and less of an actual recruitment website. The main goal of LinkedIn is networking and staying informed about the industry that you are in. Out of 1 billion members only 40 million people search LinkedIn for jobs every week globally.  Their usage of AI is more advanced than ours, helping both the recruiter and job seeker so that’s a strength for them in that aspect. While LinkedIn offers a free job posting the post is only active for 21 days. You can pay to promote your job post, however the actual cost of doing so ranges from $10 to $500 with extra fees for other features. All these other features require a quote from LinkedIn to use based on what company is requesting to use them. This is a weakness as businesses without LinkedIn presence are not going to pay these costs just to be able to get the most out of the site. Even if you are a business that has LinkedIn depending on your size these costs can increase greatly as your company grows. Our solution allows for businesses to freely post ads making it cheaper for start ups and even big businesses. LinkedIn also does not offer a resume database rather employers can only view candidates profiles. This is another weakness and further makes our solution much more appealing for businesses to use. LinkedIn is a formidable indirect competitor that we are not worried about, as our product aims to address the part-time job market, that may not have a huge presence on LinkedIn. 
 
+a) Legal Status and Structure of Your Business  
+In the UK, our business can be registered under one of the following structures:  
+1.	Private Limited Company (Ltd) – Suitable for businesses seeking investment and expansion, offering limited liability for shareholders and a structured approach to governance.  
+2.	Sole Trader – Ideal for early-stage individual entrepreneurship, though the founder bears full financial responsibility and personal liability.  
+3.	Limited Liability Partnership (LLP) – Beneficial for team collaborations, offering flexibility and legal protection for partners.  
+Considering our long-term vision, we recommend registering as a Private Limited Company (Ltd), as it provides the following benefits: 
+•	Investment Attraction: Enables external funding from investors, business grants, and venture capital.  
+•	Limited Liability: Protects the personal assets of founders and shareholders.  
+•	Business Credibility: Enhances brand trust and professionalism, making it easier to attract partners and customers.  
+•	Scalability: Facilitates future growth, restructuring, and international expansion.  
+Additionally, we must register for ICO (Information Commissioner’s Office) data protection certification to comply with UK GDPR regulations, particularly given our handling of students’ personal data. This includes implementing robust security measures and transparent data-handling policies to protect user privacy.  
+________________________________________
+b) Team and Roles 
+Our business is structured around a multi-disciplinary team, ensuring efficient operations, technical excellence, and strategic growth:  
+1.	CEO/Product Lead – Oversees business strategy, product vision, partnerships, and overall management.
+2.	CTO/Tech Team – Responsible for app development, database management, cybersecurity, and technology infrastructure. 
+3.	Marketing & Sales (CMO) – Leads market penetration strategies, brand positioning, advertising sales, and customer acquisition. 
+4.	Content Creator (YouTuber) – Produces high-quality photography and translation training content, enhancing our brand through YouTube marketing.  
+5.	Customer Support & Operations – Facilitates seamless student-employer matchmaking, user engagement, and service quality assurance.  
+6.	Legal Advisor – Ensures compliance with UK employment laws, advertising policies, user privacy regulations, and contract management. 
+Each team member plays a vital role in maintaining a sustainable and competitive business, ensuring innovation and regulatory adherence.  
+________________________________________
+c) Resources Needed and Acquisition  
+We require key resources for successful operations, categorized as follows:  
+Resource	Purpose	Acquisition Method  
+App Development	Job matching algorithm, user interface, data storage	In-house development or outsourcing to UK-based developers 
+Servers & Data Security	Storing user data securely, ensuring GDPR compliance	AWS, Google Cloud, or Azure  
+Marketing & Promotion	Attracting students and employers	YouTube marketing, influencer collaborations, social media ads  
+Photography & Translation Training Courses	Providing additional value and revenue streams	Created and produced by our in-house YouTuber  
+Legal & Compliance	Ensuring adherence to UK employment and data protection laws	Hiring a professional legal expert  
+To reduce early-stage costs, we aim to leverage UK government startup support schemes such as:  
+•	Start Up Loans (low-interest government-backed loans for new businesses).  
+•	Innovate UK Grants (funding for innovative technology-driven projects).  
+•	University Incubators (resources, mentorship, and networking opportunities).  
+________________________________________
+d) Approach to Financing  
+Our financing strategy is designed to support different stages of growth through a phased approach:  
+1.	Initial Funding (Self-funding + Grants)  
+o	Bootstrapping with personal investments from the founding team.  
+o	Applying for UK Innovate UK or Start Up Loans grants.  
+o	Seeking support from university startup incubators for mentorship and networking.  
+2.	Angel Investment (After MVP Development)  
+o	Attracting angel investors post-Minimum Viable Product (MVP) launch.  
+o	Target funding of £50,000 - £100,000 to refine our product and expand marketing efforts.  
+3.	Corporate Partnerships & Ad Revenue  
+o	Collaborating with local businesses, charging them for advertising space within the app.  
+o	Monetizing photography and translation training courses produced by our in-house content creator.  
+4.	Series A Venture Capital (1-2 Years Later)  
+o	Raising venture capital after achieving stable user growth and market traction.  
+o	Target funding of £500,000+ to expand nationwide, enhance technology, and scale operations.  
+With this structured approach, we ensure financial sustainability while positioning ourselves for long-term success in the UK student job-matching market.  
+
 
