@@ -326,4 +326,14 @@ Mitigation:
 •	Adapt with times, if the trends require remote workers, we better support remote job or hybrid jobs.  
 •	Updates our algorithms to focus on skill-based hiring.  
 
+References  
+1.	CIPD (2025). Labour Market Outlook. Chartered Institute of Personnel and Development.  
+2.	Federation of Small Businesses (2024). FSB UK Small Business Statistics. Available at: www.fsb.org.uk  
+3.	Fitzpatrick, R. (2013). The Mom Test: How to Talk to Customers & Learn if Your Business is a Good Idea When Everyone is Lying to You.  
+4.	McKinsey (2021). The future of work after COVID-19.  
+5.	Office for National Statistics (2025). Table EMP01: Full-time, part-time and temporary workers: People (seasonally adjusted)  
+6.	Ries, E. (2011). The Lean Startup.   
+
+
+
 
